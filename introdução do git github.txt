@@ -1,0 +1,16 @@
+anotações do git/github
+
+
+
+Ciclo do Git/GitHub
+
+
+git init -> cria novo repositorio no git.
+
+git add -> adicionar suas mudanças, para depois fazer o commit.
+
+git commit -> adiciona uma mensagem para depois empurra suas mudanças no github.
+
+git push -> empurra suas mudanças para o github.
+
+
