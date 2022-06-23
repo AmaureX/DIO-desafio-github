@@ -13,4 +13,6 @@ git commit -> adiciona uma mensagem para depois empurra suas mudanças no github
 
 git push -> empurra suas mudanças para o github.
 
+teste
+
 
